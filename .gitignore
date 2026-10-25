@@ -1,0 +1,5 @@
+totally_not_my_privateKeys.db
+__pycache__/
+.pytest_cache/
+.coverage
+*.pyc
